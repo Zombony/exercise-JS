@@ -26,11 +26,6 @@ function CoffeeMachine(power) {
 }
 
 
-
-
-
-
-
 var coffeeMachine = new CoffeeMachine(50000);
 coffeeMachine.waterAmount = 200;
 
